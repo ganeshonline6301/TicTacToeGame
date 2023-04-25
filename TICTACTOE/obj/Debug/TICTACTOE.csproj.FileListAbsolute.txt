@@ -1,0 +1,8 @@
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.exe.config
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.exe
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\bin\Debug\TICTACTOE.pdb
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csproj.AssemblyReference.cache
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csproj.SuggestedBindingRedirects.cache
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.csproj.CoreCompileInputs.cache
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.exe
+F:\Ariqt\POC's\TICTACTOE\TICTACTOE\obj\Debug\TICTACTOE.pdb
